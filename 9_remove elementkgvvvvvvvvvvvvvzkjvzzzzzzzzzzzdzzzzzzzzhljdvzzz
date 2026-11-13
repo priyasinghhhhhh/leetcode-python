@@ -1,4 +1,4 @@
-class Solution:
+vclass Solution:
     def removeElement(self, nums: list[int], val: int) -> int:
         k = 0
 
