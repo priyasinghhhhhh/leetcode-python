@@ -1,4 +1,4 @@
-class Solution:
+cclass Solution:
     def climbStairs(self, n: int) -> int:
         if n <= 2:
             return n
